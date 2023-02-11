@@ -1,7 +1,7 @@
-# TRINIT_colonthree_ML03
+## TRINIT_colonthree_ML03
 ML0 :3 Crop Prediction (TRI-NIT Hackathon submission for team :3) 
 
-#Croptima: Optimal Crop Prediction System
+# Croptima: Optimal Crop Prediction System
 Croptima is an innovative platform that leverages machine learning to predict the optimal crop to cultivate in a given region based on environmental conditions. 
 
 Problem Statement: Predicting the optimal crop that could be grown in a particular location based on the
